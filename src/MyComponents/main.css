@@ -1,0 +1,187 @@
+body {
+  font-family: 'Montserrat'; 
+}
+
+.pad-1 {
+  color: white;
+  background-color: #3edbf0;
+  padding: 2% 15%;
+}
+
+.ixa {
+  color: #9ede73;
+  margin-bottom: 10px;
+}
+
+.ixa:hover {
+  color: #9ddfd3;
+}
+
+.down-button {
+  margin: 5% 3% 5% 0;
+}
+
+.imag {
+  width: 90%;
+  transform: rotate(15deg);
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.testimonials-in{
+  font-weight: 900;
+  color: white;
+  padding-bottom: 50px;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding-left: 0;
+}
+
+.listnav{
+  margin:0 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Features Section*/
+
+#features {
+  text-align: center;
+  padding: 10% 15%;
+}
+
+.color-tag{
+  color: #8f8f8f;
+}
+
+/* Carousel Section */
+
+#testimonials{
+  background-color: #3edbf0;
+  text-align: center;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.img-2{
+  border-radius: 50px;
+  width: 250px;
+}
+
+.img-3{
+  width:15%;
+  height:4%;
+  padding: 0 25px 60px;
+}
+
+.pricing-in{
+  color:#9ede73;
+  font-weight: 900;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.para-price{
+  margin: 2% auto;
+  font-family: 'Ubuntu';
+  font-size: 1.5rem;
+  text-align:center;
+}
+
+
+/* Press Image Section */
+
+#press{
+  background-color: #3edbf0;
+  text-align: center;
+  padding: 20px;
+}
+
+
+
+/* Pricing Cards */
+
+
+#pricing{
+  margin: 7% 12%;
+}
+
+.card-header{
+  text-align: center;
+}
+
+.border-card{
+  padding: 0;
+}
+
+
+/* Download Section */
+
+#cta{
+  padding:7% 15%;
+  text-align: center;
+  background-color: #3edbf0;
+}
+
+.cta-font{
+  font-weight: 900;
+  color: white;
+  padding-bottom: 50px;
+}
+
+
+/* Footer Section */
+
+#footer{
+  padding:2% 15%;
+  text-align: center;
+}
+
+.a-bottom {
+  text-decoration: none;
+  color: white;
+}
+
+.a-bottom:hover{
+  text-decoration: none;
+}
+
+/* About Page  */
+
+.about-head-sec{
+  background-color: #3edbf0;
+  color: white;
+  margin: 1vh 0;
+  padding: 1rem;
+  border-radius: 15px;
+}
+
+
+
+/* Footer */
+.footer{
+    background-color:#515D6A;
+}
+.fs-6 {
+    font-size: 0.9rem!important;
+}
+.col-back{
+  background-color: #3edbf0;
+}
+
+
